@@ -1,0 +1,7 @@
+<metadata>
+	<name>Paste</name>
+	<shortname>Paste</shortname>
+	<className>PasteUploader</className>
+	<icon>icon.png</icon> <!-- TODO -->
+	<version>0.1</version> <!-- TODO: replace with git tag magic -->
+</metadata>
